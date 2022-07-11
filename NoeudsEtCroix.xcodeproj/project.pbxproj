@@ -14,6 +14,7 @@
 		CEFF6B34287C2B37002F1F45 /* NoeudsEtCroixTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFF6B33287C2B37002F1F45 /* NoeudsEtCroixTests.swift */; };
 		CEFF6B3E287C2B37002F1F45 /* NoeudsEtCroixUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFF6B3D287C2B37002F1F45 /* NoeudsEtCroixUITests.swift */; };
 		CEFF6B40287C2B37002F1F45 /* NoeudsEtCroixUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFF6B3F287C2B37002F1F45 /* NoeudsEtCroixUITestsLaunchTests.swift */; };
+		CEFF6B4D287C2B5E002F1F45 /* BoardGameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEFF6B4C287C2B5E002F1F45 /* BoardGameView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		CEFF6B39287C2B37002F1F45 /* NoeudsEtCroixUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NoeudsEtCroixUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEFF6B3D287C2B37002F1F45 /* NoeudsEtCroixUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoeudsEtCroixUITests.swift; sourceTree = "<group>"; };
 		CEFF6B3F287C2B37002F1F45 /* NoeudsEtCroixUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoeudsEtCroixUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CEFF6B4C287C2B5E002F1F45 /* BoardGameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BoardGameView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				CEFF6B22287C2B2B002F1F45 /* NoeudsEtCroixApp.swift */,
 				CEFF6B24287C2B2B002F1F45 /* ContentView.swift */,
+				CEFF6B4C287C2B5E002F1F45 /* BoardGameView.swift */,
 				CEFF6B26287C2B37002F1F45 /* Assets.xcassets */,
 				CEFF6B28287C2B37002F1F45 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEFF6B4D287C2B5E002F1F45 /* BoardGameView.swift in Sources */,
 				CEFF6B25287C2B2B002F1F45 /* ContentView.swift in Sources */,
 				CEFF6B23287C2B2B002F1F45 /* NoeudsEtCroixApp.swift in Sources */,
 			);
